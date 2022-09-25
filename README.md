@@ -4,7 +4,7 @@ This code shows how the Main and Renderer processes communicate
 Use of BrowserWindow
 Use of preload script to expose ElectronAPI to renderer process
 WebSocket communication
-
+The following instructions are for WINDOWS Operating System
 1 setup webserver
 create a folder named say WSServer
 Copy server.js to that folder
@@ -21,6 +21,7 @@ for any setup issues please refer
 https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app
 
 click demo->open camera
+wait for some time to display video stream from your PC Camera
 click camera image to take the picture
 
 click demo->create WebSocket
