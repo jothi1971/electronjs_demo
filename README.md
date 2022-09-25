@@ -2,6 +2,7 @@
 simple demo using ElectronJS
 This code shows how the Main and Renderer processes communicate
 Use of BrowserWindow
+Use of preload script to expose ElectronAPI to renderer process
 WebSocket communication
 
 1 setup webserver
